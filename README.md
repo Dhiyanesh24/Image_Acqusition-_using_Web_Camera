@@ -34,8 +34,10 @@ Display processed frames on the screen using cv2.imshow(), and continuously chec
 <br>
 
 ## Program:
+```
 Name : Dhiyaneshwar P
 reg.no : 212222110009
+```
 ## i) Write the frame as JPG file
 ```python
 import cv2
